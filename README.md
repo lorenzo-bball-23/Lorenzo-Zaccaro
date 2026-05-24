@@ -13,7 +13,7 @@ I designed and vibe-coded **Sovereign OS**, an AI-driven psychological optimizat
 
 > **The Thesis:** In early-stage venture creation, the biggest point of failure isn't the market—it's the founder's psychology. True execution requires absolute psychological sovereignty: moving away from approval-seeking impulses and moving toward objective, data-driven decision making.
 
-👉 **[Jump to the Sovereign OS Repository](LINK_TO_YOUR_REPO_HERE)**
+👉 **[Jump to the Sovereign OS Repository]((https://github.com/lorenzo-bball-23/Sovereign-OS/blob/main/README.md))**
 
 ---
 
@@ -27,4 +27,4 @@ I designed and vibe-coded **Sovereign OS**, an AI-driven psychological optimizat
 * Scale my vintage clothing business operations.
 * Refine the schema knowledge-base parameters for Sovereign OS.
 
-📫 **Let's Connect:** [Your LinkedIn Link] | [Your Email]
+📫 **Let's Connect:** (https://www.linkedin.com/in/lorenzo-hector-zaccaro/) |
